@@ -5,3 +5,4 @@ http://dev.classmethod.jp/etc/aws-github-devops-hands-on/
 
 test.text
 
+test.text 20180531
